@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Lasindu-DocupathAI.github.io/notes-1clce0/sitemap.xml
